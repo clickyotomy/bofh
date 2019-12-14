@@ -1,0 +1,11 @@
+bofh
+----
+The Bastard Operator From Hell excuse server.
+Inspired by http://pages.cs.wisc.edu/~ballard/bofh/.
+
+USAGE
+    bofh [-addr] [-port]
+
+ARGUMENTS
+    -addr  listen address for the server [default: localhost]
+    -port  listen port for the server    [default: 666]

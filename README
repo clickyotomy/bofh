@@ -3,6 +3,9 @@ bofh
 The Bastard Operator From Hell excuse server.
 Inspired by http://pages.cs.wisc.edu/~ballard/bofh/.
 
+BUILD
+    make
+
 USAGE
     bofh [-addr] [-port]
 

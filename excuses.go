@@ -240,7 +240,7 @@ var Excuses []string = []string{
 		"where the core is buried!",
 	"The MGs ran out of gas.",
 	"The UPS doesn't have a battery backup.",
-	"Recursivity.  Call back if it happens again.",
+	"Recursivity. Call back if it happens again.",
 	"Someone thought The Big Red Button was a light switch.",
 	"The mainframe needs to rest. It's getting old, you know.",
 	"I'm not sure. Try calling the Internet's head " +
